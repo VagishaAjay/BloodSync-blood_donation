@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514438827672",
+    "project_id": "blood-sync1",
+    "storage_bucket": "blood-sync1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514438827672:android:fa42f36517887d9c428aed",
+        "android_client_info": {
+          "package_name": "com.example.blood_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzB17iHpSNXHCYbc06Pc6kBaxIqDQmbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514438827672:android:5d52c7f0045ce525428aed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_blood_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzB17iHpSNXHCYbc06Pc6kBaxIqDQmbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
